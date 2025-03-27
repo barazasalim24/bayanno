@@ -9,8 +9,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Creativeitem" />
-    <meta name="author" content="Creativeitem" />
+    <meta name="description" content="InfiniaSync" />
+    <meta name="author" content="InfiniaSync" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <link name="favicon" type="image/x-icon" href="<?php echo base_url().'uploads/favicon.png' ?>" rel="shortcut icon" />
     <title></title>
